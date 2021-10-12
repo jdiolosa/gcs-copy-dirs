@@ -1,1 +1,1 @@
-https://github.com/jdiolosa/gcs-put-dirs.git
+google==3.0.0
