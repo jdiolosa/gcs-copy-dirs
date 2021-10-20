@@ -1,2 +1,2 @@
 # gcs-put-dirs
-create empty directories in a GCS bucket.
+copy files from one GCS bucket to another.
